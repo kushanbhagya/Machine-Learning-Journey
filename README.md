@@ -86,16 +86,6 @@ This journal reflects my transition from theoretical knowledge to hands-on Machi
 
 ---
 
-## 📁 Repository Structure
-
-├── My Machine Learning Journey.pdf
-├── notebooks/ (optional)
-├── datasets/ (optional)
-└── README.md
-
-
----
-
 ## 🎯 Key Learnings
 
 - Importance of data preprocessing
@@ -120,7 +110,6 @@ This journal reflects my transition from theoretical knowledge to hands-on Machi
 
 **Kushan Bhagya**
 - Cybersecurity & AI Enthusiast
-- Aspiring Machine Learning Engineer
 
 ---
 
