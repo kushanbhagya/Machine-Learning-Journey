@@ -19,7 +19,7 @@ This journal reflects my transition from theoretical knowledge to hands-on Machi
 
 ## 🏆 Kaggle Profile
 
-Check out my Kaggle profile where I participate in competitions, publish notebooks, and explore real-world datasets:
+Check out my Kaggle profile, where I participate in competitions, publish notebooks, and explore real-world datasets:
 
 🔗 https://www.kaggle.com/kushanbhagya
 
